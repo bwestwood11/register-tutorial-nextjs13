@@ -56,7 +56,7 @@ const registerUser = async (e) => {
                   </label>
                   <div className="text-sm">
                     <a href="#" className="font-semibold text-indigo-600 hover:text-indigo-500">
-                      Forgot password?
+                      Forgot password??
                     </a>
                   </div>
                 </div>
